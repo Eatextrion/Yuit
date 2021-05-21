@@ -1,1 +1,1 @@
-A website for Yuit
+A website for Your bot name
