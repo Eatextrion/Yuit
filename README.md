@@ -1,1 +1,1 @@
-A website for Mai
+A website for Yuit
